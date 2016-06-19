@@ -5,8 +5,6 @@ title: Week One
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
 What did you do this past week?
 
 During the past week of this class, I have been working on the first Collatz project, which has been giving me a hard time to complete and figure out how to optimize it. The algorithm was exceptionally easy to figure out. However, optimizing the program was difficult to solve in order to get accepted into Sphere. We also got started being familiar with Python, a language I have taught myself for over a year through my internship at Intel. The quizzes so far have been very difficult for me to figure out correctly considering the short time limit for each quiz.
