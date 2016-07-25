@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Undergraduate Junior/Senior at UT Austin reaching for a Bachelors of Science in Computer Science
+Undergraduate Junior/Senior at UT Austin reaching for a BS in Computer Science
 
 Software Engineering Intern at Intel Corp.
 
