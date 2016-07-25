@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Undergraduate Junior/Senior at UT Austin reaching for a Bachelors of Science in Computer Science
+Software Engineering Intern at Intel Corp.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-I like programming!!
+I like programming and living my life to the fullest!!
 
 ### Contact me
 
