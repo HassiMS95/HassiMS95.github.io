@@ -1,3 +1,8 @@
+---
+layout: post
+title: Week Three
+---
+
 What you did last week?
 
 Last week, I was able to finish the second project with my partner by running a few system tests to get the necessary results in order to recieve full credit for the project. So far, the quizzes have been getting much easier to handle with now considering the questions have been based on previous lectures more rather than content from the books. Along with attending each lecture, I have began studying for the upcoming test, which is until next week. I've been reading through the past quizzes and lecture content that we discussed before. 
